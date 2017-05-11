@@ -1,0 +1,100 @@
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\MahApps.Metro.dll
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\MahApps.Metro.pdb
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\MahApps.Metro.xml
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\App.baml
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\AddProductWindow.g.cs
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\AddProductWindow.baml
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\obj\Debug\AuthorizationWindow.baml
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oleg\Source\Repos\NewRepo\WpfApplication2\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.exe
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.pdb
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.exe
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.pdb
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.dll
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\System.Windows.Interactivity.dll
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.pdb
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.xml
+D:\Downloads\WPFApllication21\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\App.baml
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\AddProductWindow.g.cs
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\MainWindow.g.cs
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\AuthorizationWindow.g.cs
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\App.g.cs
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\AddProductWindow.baml
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\MainWindow.baml
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\AuthorizationWindow.baml
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+D:\Downloads\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.exe
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.pdb
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.dll
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\System.Windows.Interactivity.dll
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.pdb
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.xml
+D:\Projects\WPFApllication21\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\App.baml
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\AddProductWindow.g.cs
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\MainWindow.g.cs
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\AuthorizationWindow.g.cs
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\App.g.cs
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\AddProductWindow.baml
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\MainWindow.baml
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\AuthorizationWindow.baml
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.exe
+D:\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.dll
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.pdb
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\MahApps.Metro.xml
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\App.baml
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\AddProductWindow.g.cs
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\AddProductWindow.baml
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\AuthorizationWindow.baml
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Oleg\Documents\Visual Studio 2017\Projects\WPFApllication21\WpfApplication2\obj\Debug\WpfApplication2.pdb

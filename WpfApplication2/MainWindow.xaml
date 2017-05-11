@@ -1,0 +1,36 @@
+﻿<Controls:MetroWindow x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication2"
+        mc:Ignorable="d"
+        Title="Продукты" Height="300" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="0.4*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Column="0" Grid.Row="0">
+            <MenuItem Header="Сохранить в файл" Command="{Binding SaveCommand}"/>
+        </Menu>
+        <ScrollViewer Margin="3, 0, 0, 0" Name="scrollView" Grid.Column="1" Grid.Row="1" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible" CanContentScroll="True" >
+            <ItemsControl ItemsSource="{Binding Fields}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+            </ItemsControl>
+        </ScrollViewer>
+        
+        <DataGrid x:Name="productsGrid" Grid.Column="0" Grid.Row="1" ItemsSource="{Binding Products, UpdateSourceTrigger=PropertyChanged}"
+                 HorizontalAlignment="Stretch" Margin="10,10,0,0" VerticalAlignment="Top" Height="210" IsReadOnly="True"/>
+        <GridSplitter Grid.ColumnSpan="1" ShowsPreview="False" Width="5" VerticalAlignment="Stretch" Grid.RowSpan="2" />
+    </Grid>
+</Controls:MetroWindow>
